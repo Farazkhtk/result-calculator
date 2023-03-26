@@ -1,0 +1,33 @@
+body{
+
+
+    background: url("images/gcs.jpg") ;
+    background-size:100%;
+}
+#container
+{
+color: azure;
+background: rgb(69,94,171);
+margin-top: 50px;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+border: 5px solid white;
+font-family: 'Oswald', sans-serif;
+
+}
+p{
+
+text-align: start;
+margin-left: 20px;
+
+
+}
+#cbtn
+{
+
+
+    margin-top: 10px;
+}
